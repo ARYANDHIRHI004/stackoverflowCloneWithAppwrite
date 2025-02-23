@@ -1,0 +1,6 @@
+export const db = "main-riverflow"
+export const questionCollection = "question"
+export const answerCollection = "answers"
+export const commentCollection = "comment"
+export const voteCollection = "votes"
+export const questionAttachentBucket = "question-attachment"
